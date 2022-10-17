@@ -4,7 +4,8 @@
   "description": "- 과제 기한:   - 과제 수행 기간: 2022년 09월 28일(수) ~ 2022년 10월 19일(수)   - 코드 리뷰 기간: 2022년 10월 19일(수) ~ 2022년 10월 26일(수) - 내용:   - 원하는 사이트(페이지)를 자유롭게 선택하고 레이아웃을 클론 코딩하세요.   - 평소에 도전해 보고 싶었거나 혹은 자신의 수준에 맞는 사이트(페이지)를 선택하세요.",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel index.html"
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
