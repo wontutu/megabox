@@ -8,7 +8,7 @@
 
 메가박스 : https://www.megabox.co.kr/
 
-메가박스 클론 :
+메가박스 클론 : https://resplendent-snickerdoodle-9056d9.netlify.app/
 
 <br>
 
